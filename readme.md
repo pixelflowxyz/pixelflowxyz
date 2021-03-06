@@ -7,6 +7,9 @@ here's what i do:
  - community manager @ wilbursoot
  - python dev (i guess?)
  
-where can you find me? well, i'm glad you asked! i design [here](pixelflow.studio), make music (sometimes) [here](https://open.spotify.com/artist/3HCdxPhQXMWHDZ0gY42rDW) and idk what else i do tbh.
+where can you find me? well, i'm glad you asked! i design [here](pixelflow.xyz), make music (sometimes) [here](https://open.spotify.com/artist/3HCdxPhQXMWHDZ0gY42rDW) and idk what else i do tbh.
 
 see you around!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelflowxyz)](https://github.com/anuraghazra/github-readme-stats)
