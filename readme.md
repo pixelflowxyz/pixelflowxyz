@@ -12,4 +12,5 @@ where can you find me? well, i'm glad you asked! i design [here](pixelflow.xyz),
 see you around!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelflowxyz)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=pixelflowxyz&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelflowxyz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
