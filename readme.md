@@ -10,5 +10,3 @@ where can you find me? well, i'm glad you asked! i design [here](https://pixelfl
 
 see you around!
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=pixelflowxyz&show_icons=true&theme=synthwave)
